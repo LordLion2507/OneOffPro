@@ -10,9 +10,6 @@
 !.yarn/releases
 !.yarn/versions
 
-# Viktor
-/lib
-
 # testing
 /coverage
 
