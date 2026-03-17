@@ -1,0 +1,3 @@
+[00:10:34.482] Server  ERROR   ⨯ Error: ENOENT: no such file or directory, open '/Users/U6TI4RR/Desktop/Demo ONE/demo-one/.next/dev/server/app/_not-found/page/build-manifest.json'
+[00:10:34.483] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[00:10:34.508] Server  ERROR   ⨯ Error: ENOENT: no such file or directory, open '/Users/U6TI4RR/Desktop/Demo ONE/demo-one/.next/dev/server/app/_not-found/page/build-manifest.json'

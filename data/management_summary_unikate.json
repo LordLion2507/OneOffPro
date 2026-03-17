@@ -1,0 +1,352 @@
+{
+  "years": [
+    2026,
+    2027,
+    2028,
+    2029,
+    2030,
+    2031
+  ],
+  "phaseCounts": {
+    "HG0": 10,
+    "HG1": 7,
+    "HG2": 5,
+    "HG3": 2
+  },
+  "blocksByYear": {
+    "2026": [
+      {
+        "id": "2026-1-y2026",
+        "customer": "Vilensky",
+        "qty": 2,
+        "hardness": "HG3",
+        "label": "Vilensky | 2 | HG3"
+      },
+      {
+        "id": "2026-2-y2026",
+        "customer": "Piech",
+        "qty": 1,
+        "hardness": "HG1",
+        "label": "Piech | 1 | HG1"
+      }
+    ],
+    "2027": [
+      {
+        "id": "2027-4-y2027",
+        "customer": "Lin",
+        "qty": 1,
+        "hardness": "HG3",
+        "label": "Lin | 1 | HG3"
+      }
+    ],
+    "2028": [
+      {
+        "id": "2028-12-y2028",
+        "customer": "Chen",
+        "qty": 1,
+        "hardness": "HG2",
+        "label": "Chen | 1 | HG2"
+      },
+      {
+        "id": "2028-11-y2028",
+        "customer": "Gomez",
+        "qty": 1,
+        "hardness": "HG2",
+        "label": "Gomez | 1 | HG2"
+      },
+      {
+        "id": "2028-7-y2028",
+        "customer": "Sarofim",
+        "qty": 6,
+        "hardness": "HG2",
+        "label": "Sarofim | 6 | HG2"
+      },
+      {
+        "id": "2028-8-y2028",
+        "customer": "Van Meer",
+        "qty": 2,
+        "hardness": "HG2",
+        "label": "Van Meer | 2 | HG2"
+      },
+      {
+        "id": "2028-13-y2028",
+        "customer": "Wegh",
+        "qty": 1,
+        "hardness": "HG2",
+        "label": "Wegh | 1 | HG2"
+      },
+      {
+        "id": "2028-10-y2028",
+        "customer": "Bonnier",
+        "qty": 1,
+        "hardness": "HG0",
+        "label": "Bonnier | 1 | HG0"
+      },
+      {
+        "id": "2028-9-y2028",
+        "customer": "Jen",
+        "qty": 1,
+        "hardness": "HG0",
+        "label": "Jen | 1 | HG0"
+      }
+    ],
+    "2029": [
+      {
+        "id": "2029-19-y2029",
+        "customer": "Flatau",
+        "qty": 5,
+        "hardness": "HG1",
+        "label": "Flatau | 5 | HG1"
+      },
+      {
+        "id": "2029-18-y2029",
+        "customer": "Novak",
+        "qty": 1,
+        "hardness": "HG1",
+        "label": "Novak | 1 | HG1"
+      },
+      {
+        "id": "2029-17-y2029",
+        "customer": "Sulma",
+        "qty": 1,
+        "hardness": "HG1",
+        "label": "Sulma | 1 | HG1"
+      },
+      {
+        "id": "2029-16-y2029",
+        "customer": "Trazzi.2 / Lin.2",
+        "qty": 2,
+        "hardness": "HG1",
+        "label": "Trazzi.2 / Lin.2 | 2 | HG1"
+      },
+      {
+        "id": "2029-20-y2029",
+        "customer": "Trazzi.3",
+        "qty": 1,
+        "hardness": "HG1",
+        "label": "Trazzi.3 | 1 | HG1"
+      },
+      {
+        "id": "2029-21-y2029",
+        "customer": "Katz",
+        "qty": 1,
+        "hardness": "HG0",
+        "label": "Katz | 1 | HG0"
+      },
+      {
+        "id": "2029-22-y2029",
+        "customer": "Zhang",
+        "qty": 1,
+        "hardness": "HG0",
+        "label": "Zhang | 1 | HG0"
+      }
+    ],
+    "2030": [
+      {
+        "id": "2030-25-y2030",
+        "customer": "SOC",
+        "qty": 10,
+        "hardness": "HG1",
+        "label": "SOC | 10 | HG1"
+      },
+      {
+        "id": "2030-29-y2030",
+        "customer": "Bonetsmüller",
+        "qty": 1,
+        "hardness": "HG0",
+        "label": "Bonetsmüller | 1 | HG0"
+      },
+      {
+        "id": "2030-30-y2030",
+        "customer": "Chen",
+        "qty": 1,
+        "hardness": "HG0",
+        "label": "Chen | 1 | HG0"
+      },
+      {
+        "id": "2030-31-y2030",
+        "customer": "Chen",
+        "qty": 1,
+        "hardness": "HG0",
+        "label": "Chen | 1 | HG0"
+      },
+      {
+        "id": "2030-28-y2030",
+        "customer": "Khalifa al Suwaidi",
+        "qty": 1,
+        "hardness": "HG0",
+        "label": "Khalifa al Suwaidi | 1 | HG0"
+      },
+      {
+        "id": "2030-27-y2030",
+        "customer": "Nezir",
+        "qty": 1,
+        "hardness": "HG0",
+        "label": "Nezir | 1 | HG0"
+      },
+      {
+        "id": "2030-26-y2030",
+        "customer": "Pagani",
+        "qty": 1,
+        "hardness": "HG0",
+        "label": "Pagani | 1 | HG0"
+      },
+      {
+        "id": "2030-32-y2030",
+        "customer": "frei",
+        "qty": 1,
+        "hardness": "FREI",
+        "label": "frei"
+      },
+      {
+        "id": "2030-33-y2030",
+        "customer": "frei",
+        "qty": 1,
+        "hardness": "FREI",
+        "label": "frei"
+      }
+    ],
+    "2031": [
+      {
+        "id": "2031-37-y2031",
+        "customer": "frei",
+        "qty": 1,
+        "hardness": "FREI",
+        "label": "frei"
+      },
+      {
+        "id": "2031-38-y2031",
+        "customer": "frei",
+        "qty": 1,
+        "hardness": "FREI",
+        "label": "frei"
+      },
+      {
+        "id": "2031-39-y2031",
+        "customer": "frei",
+        "qty": 1,
+        "hardness": "FREI",
+        "label": "frei"
+      },
+      {
+        "id": "2031-40-y2031",
+        "customer": "frei",
+        "qty": 1,
+        "hardness": "FREI",
+        "label": "frei"
+      },
+      {
+        "id": "2031-41-y2031",
+        "customer": "frei",
+        "qty": 1,
+        "hardness": "FREI",
+        "label": "frei"
+      },
+      {
+        "id": "2031-42-y2031",
+        "customer": "frei",
+        "qty": 1,
+        "hardness": "FREI",
+        "label": "frei"
+      },
+      {
+        "id": "2031-43-y2031",
+        "customer": "frei",
+        "qty": 1,
+        "hardness": "FREI",
+        "label": "frei"
+      },
+      {
+        "id": "2031-44-y2031",
+        "customer": "frei",
+        "qty": 1,
+        "hardness": "FREI",
+        "label": "frei"
+      },
+      {
+        "id": "2031-45-y2031",
+        "customer": "frei",
+        "qty": 1,
+        "hardness": "FREI",
+        "label": "frei"
+      }
+    ]
+  },
+  "sollByYear": {
+    "2026": 2,
+    "2027": 1,
+    "2028": 6,
+    "2029": 7,
+    "2030": 9,
+    "2031": 9
+  },
+  "businessCaseRows": [
+    {
+      "label": "SOLL AUSLIEFERUNGEN",
+      "values": {
+        "2026": 2,
+        "2027": 1,
+        "2028": 6,
+        "2029": 7,
+        "2030": 9,
+        "2031": 9
+      }
+    },
+    {
+      "label": "PLAN SUMME HG0 - HG3",
+      "values": {
+        "2026": 3,
+        "2027": 1,
+        "2028": 13,
+        "2029": 12,
+        "2030": 16,
+        "2031": 0
+      }
+    },
+    {
+      "label": "UMSETZUNGSPHASE (HG3)",
+      "values": {
+        "2026": 2,
+        "2027": 1,
+        "2028": 0,
+        "2029": 0,
+        "2030": 0,
+        "2031": 0
+      }
+    },
+    {
+      "label": "KONZEPTPHASE (HG2)",
+      "values": {
+        "2026": 0,
+        "2027": 0,
+        "2028": 11,
+        "2029": 0,
+        "2030": 0,
+        "2031": 0
+      }
+    },
+    {
+      "label": "PRE-ALIGNMENT (HG1)",
+      "values": {
+        "2026": 1,
+        "2027": 0,
+        "2028": 0,
+        "2029": 10,
+        "2030": 10,
+        "2031": 0
+      }
+    },
+    {
+      "label": "Akquise (HG0)",
+      "values": {
+        "2026": 0,
+        "2027": 0,
+        "2028": 2,
+        "2029": 2,
+        "2030": 6,
+        "2031": 0
+      }
+    }
+  ],
+  "generatedAt": "2026-03-14T15:53:14.328Z"
+}
